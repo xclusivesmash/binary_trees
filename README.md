@@ -1,30 +1,29 @@
 # C - Binary trees
 
-## Description
-> Data structures are important in software engineering for mainly their usability in arranging, managing, and accessing data in easier formats for faster computational reasons.
+## Project Description
+> This repository is created based on developing an understanding of binary trees as an alternative form of data structures. This is part of learning software engineering at ALX SE programme. The goal is to learn by building real-world projects.
 
-## Learning objectives
-- Understanding what binary trees are.
-- Know the difference between a binary tree and a binary search tree.
-- Possible gains in terms of time complexity as compared to linked lists.
-- know the depth, height, and size of binary tree.
-- Understand different traversal methods to go through a binary tree.
-- Know the difference between a complete, full, perfect, and a balanced binary tree.
+## Objectives
+- What is a binary tree
+- What is the difference between a binary tree and a Binary Search Tree
+- What is the possible gain in terms of time complexity compared to linked lists
+- What are the depth, the height, the size of a binary tree
+- What are the different traversal methods to go through a binary tree
+- What is a complete, a full, a perfect, a balanced binary tree
 
 ## Requirements
-- OS: `Ubuntu 20.04 LTS`
-- Language(s): `C`
-- Compiler: `gcc`
-- Style Guide: [Betty]()
-- All header files should be include guarded.
 
-## Scripts
-0. **1-binary_tree_insert_left.c** - inserts a node as a left child of another node.
-    * Prototype: `binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);`
-<br>
+### General
+- Allowed editors: `vi`, `vim`, or `emacs`.
+- OS: `Ubuntu 20.04 LTS`
+- Version of `gcc`: 9.3.0
+- Style Guide: [Betty Style](https://github.com/alx-tools/Betty/wiki)
+
+## Printing the structures
+- For this project, this [print](https://github.com/alx-tools/0x1C.c.git) function is used.
 
 ## Author
-- Siphamandla Matshiane, [![X](http://i.imgur.com/wWzX9uB.png)](https://www.twitter.com/sbumatshiane916)
+- Siphamandla Matshiane, ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsbumatshiane916)
 
 ## LICENSE
-- [ALX Software Enginering](https://www.alxafrica.com/software-engineering)
+- [ALX SE Programme](https://www.alxafrica.com/software-engineering/)
