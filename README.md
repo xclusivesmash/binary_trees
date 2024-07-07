@@ -15,6 +15,7 @@
 
 ### General
 - Allowed editors: `vi`, `vim`, or `emacs`.
+- Language(s): `C`
 - OS: `Ubuntu 20.04 LTS`
 - Version of `gcc`: 9.3.0
 - Style Guide: [Betty Style](https://github.com/alx-tools/Betty/wiki)
